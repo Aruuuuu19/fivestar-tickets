@@ -340,7 +340,7 @@ Cuéntanos en qué podemos ayudarte y mantente a la espera hasta que un compañe
     return {
       categoryId: process.env.PLAYMAKER_CATEGORY_ID,
       ticketName: 'playmaker',
-      ticketTitle: 'PlayMaker',
+      ticketTitle: 'Playmaker',
       mentionRoleIds: [
         ROLES.ENCARGADO_PLAYMAKER
       ],
@@ -669,8 +669,8 @@ Sección para recibir información sobre postulaciones, requisitos o cualquier d
 🎥 - **Creadores de Contenido**
 Apartado para resolver dudas, solicitudes o información relacionada con los Creadores de Contenido.
 
-🎮 - **PlayMaker**
-Apartado para solicitar el rol de PlayMaker o resolver dudas sobre requisitos y funciones.
+🎮 - **Playmaker**
+Apartado para solicitar el rol de Playmaker o resolver dudas sobre requisitos y funciones.
 
 💎 - **VIP**
 Sección destinada a consultas, solicitudes o información sobre el rango VIP del servidor y sus beneficios.
