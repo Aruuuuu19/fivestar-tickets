@@ -232,7 +232,7 @@ Cuéntanos en qué podemos ayudarte y mantente a la espera hasta que un compañe
 `
     };
 
-    };
+    }
 
   if (category === 'saed') {
     return {
@@ -384,8 +384,9 @@ Cuéntanos en qué podemos ayudarte y mantente a la espera hasta que un compañe
     };
   }
 
-  return null;
+    return null;
 
+}
 
 async function createTicket(interaction, category, ticketUser) {
   const config = getTicketConfig(category, ticketUser);
