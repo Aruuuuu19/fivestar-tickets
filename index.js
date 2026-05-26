@@ -693,7 +693,7 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
 
         {
           label: 'Fichas Personaje',
-          description: 'Enviar ficha personaje',
+          description: 'Enviar Ficha Personaje',
           value: 'character',
           emoji: '📄'
         },
@@ -707,7 +707,7 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
 
         {
           label: 'Devoluciones',
-          description: 'Solicitar devolución',
+          description: 'Solicitar Devolución',
           value: 'refund',
           emoji: '💰'
         },
@@ -721,7 +721,7 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
 
         {
           label: 'Administración',
-          description: 'Ayuda administrativa',
+          description: 'Ayuda Administrativa',
           value: 'admin',
           emoji: '🔰'
         },
