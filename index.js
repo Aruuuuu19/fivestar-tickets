@@ -233,7 +233,6 @@ Cuéntanos en qué podemos ayudarte y mantente a la espera hasta que un compañe
     };
 
     };
-  }
 
   if (category === 'saed') {
     return {
