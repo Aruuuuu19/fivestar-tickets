@@ -700,7 +700,7 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
 
         {
           label: 'Bugs / Soporte',
-          description: 'Errores y ayuda',
+          description: 'Errores y Ayuda',
           value: 'support',
           emoji: '🛠️'
         },
