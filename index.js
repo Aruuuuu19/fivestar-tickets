@@ -889,11 +889,12 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
           '🔒 Cerrando ticket...'
         );
 
-        setTimeout(async () => {
+                setTimeout(async () => {
           await interaction.channel.delete();
         }, 5000);
 
-       }
+      }
+
     );
 
   }
