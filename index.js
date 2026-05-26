@@ -893,7 +893,7 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
           await interaction.channel.delete();
         }, 5000);
 
-      }
+       }
     );
 
   }
