@@ -315,8 +315,8 @@ Cuéntanos en qué podemos ayudarte y mantente a la espera hasta que un compañe
   if (category === 'creator') {
     return {
       categoryId: process.env.CREATOR_CATEGORY_ID,
-      ticketName: 'creadores',
-      ticketTitle: 'Creadores',
+      ticketName: 'creadores de Contenido',
+      ticketTitle: 'Creadores de Contenido',
       mentionRoleIds: [
         ROLES.ENCARGADO_CC
       ],
@@ -742,28 +742,28 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
 
         {
           label: 'Bandas',
-          description: 'Información bandas',
+          description: 'Información Bandas',
           value: 'gangs',
           emoji: '🔪'
         },
 
         {
           label: 'Comercios',
-          description: 'Información comercios',
+          description: 'Información Comercios',
           value: 'shops',
           emoji: '🏪'
         },
 
         {
-          label: 'Creadores',
+          label: 'Creadores de Contenido',
           description: 'Información Creadores de Contenido',
           value: 'creator',
           emoji: '🎥'
         },
 
         {
-          label: 'PlayMaker',
-          description: 'Información PlayMaker',
+          label: 'Playmaker',
+          description: 'Información Playmaker',
           value: 'playmaker',
           emoji: '🎮'
         },
