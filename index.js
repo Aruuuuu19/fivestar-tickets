@@ -666,8 +666,8 @@ Espacio para resolver dudas, solicitudes o información relacionada con el siste
 🏪 - **Comercios**
 Sección para recibir información sobre postulaciones, requisitos o cualquier duda relacionada con los comercios.
 
-🎥 - **Creadores de contenido**
-Apartado para resolver dudas, solicitudes o información relacionada con los creadores de contenido.
+🎥 - **Creadores de Contenido**
+Apartado para resolver dudas, solicitudes o información relacionada con los Creadores de Contenido.
 
 🎮 - **PlayMaker**
 Apartado para solicitar el rol de PlayMaker o resolver dudas sobre requisitos y funciones.
@@ -756,7 +756,7 @@ Sección destinada a consultas, solicitudes o información sobre el rango VIP de
 
         {
           label: 'Creadores',
-          description: 'Información creadores',
+          description: 'Información Creadores de Contenido',
           value: 'creator',
           emoji: '🎥'
         },
